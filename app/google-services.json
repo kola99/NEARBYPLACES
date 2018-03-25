@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "961924955078",
+    "firebase_url": "https://nearbyplaces-ca687.firebaseio.com",
+    "project_id": "nearbyplaces-ca687",
+    "storage_bucket": "nearbyplaces-ca687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961924955078:android:8f3f8cb00d63f4c9",
+        "android_client_info": {
+          "package_name": "kola.com.nearbyplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961924955078-oe7264ghepsu87osetq5jf9i7q9l9r98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kola.com.nearbyplaces",
+            "certificate_hash": "149d9e959e149b7dba9651b99e473e07a927dd98"
+          }
+        },
+        {
+          "client_id": "961924955078-7dhr4dfp6smbp6326itobq0rbljmpi80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOuea_3BGWxFiJD671givhe12prsBZrQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961924955078-7dhr4dfp6smbp6326itobq0rbljmpi80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
